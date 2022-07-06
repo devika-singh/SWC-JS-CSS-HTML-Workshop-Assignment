@@ -4,11 +4,12 @@
 Work Done:
 1. Making website from assignment
 2. Using tailwind for all css
-3. Making the website responsive 
-4. Making the side menu into a mobile sliding menu with three-line button for smaller screen sizes using js and tailwind
-5. Widening the header width for mobile devices
-6. Adding hover effects on side menu and on its sliding button
-7. Adding different margins for cards for mobile devices.
+3. Making the website responsive
+4. Added space between cards for larger size of screen
+5. Making the side menu into a mobile sliding menu with three-line button for smaller screen sizes using js and tailwind
+6. Widening the header width for mobile devices
+7. Adding hover effects on side menu and on its sliding button
+8. Adding different margins for cards for mobile devices.
 
 Some pictures of working website:
 ![image](https://user-images.githubusercontent.com/95178561/177640719-fbceb497-15d9-46c1-ba83-69d9ece235c7.png)
