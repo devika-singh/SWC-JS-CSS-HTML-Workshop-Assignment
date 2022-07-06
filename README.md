@@ -2,8 +2,8 @@
 -By Devika Singh
 
 Work Done:
-1. Making website from assignment 2
-2.Using tailwind for all css
+1. Making website from assignment
+2. 2.Using tailwind for all css
 3. Making the website responsive 
 4. Making the side menu into a mobile sliding menu with three-line button for smaller screen sizes using js and tailwind
 5. Widening the header width for mobile devices
