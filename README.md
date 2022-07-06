@@ -11,6 +11,8 @@ Work Done:
 7. Adding hover effects on side menu and on its sliding button
 8. Adding different margins for cards for mobile devices.
 
+Thank you!
+
 Some pictures of working website:
 ![image](https://user-images.githubusercontent.com/95178561/177647989-8f1f9250-8c9d-44ec-91b6-ac08f82e21d6.png)
 ![image](https://user-images.githubusercontent.com/95178561/177648058-f6fda498-7531-4801-81f7-ad0777a50a95.png)
